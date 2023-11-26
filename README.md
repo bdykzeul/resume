@@ -1,5 +1,5 @@
-# Your Name
-[Address] | [Phone Number] | [Email Address] | [LinkedIn Profile]
+# Bradley J Dykzeul
+[Email][(bradley.dykzeul@gmail.com)] | [[LinkedIn](https://www.linkedin.com/in/brad-dykzeul-9792a7b/)]
 
 ## Summary
 Experienced healthcare technology professional with a Bachelor of Science in Informatics from UCI and 14 years of expertise in driving innovation, leading teams, and implementing cutting-edge solutions in healthcare IT. Currently serving as a Principal Engineer at NextGen Healthcare, leading technical initiatives and providing strategic direction in a remote work environment. Proven track record of success in technical leadership, software development, and project management within healthcare technology.
